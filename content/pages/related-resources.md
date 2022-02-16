@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 380c3f78-0842-60da-e743-80ebedbd6189
 ---
@@ -9,7 +11,7 @@ Massachusetts
 
 [Massachusetts State Sustainability](http://www.mass.gov/envir/Sustainable/)
 
-[ICLEI Personal CO2 Calculator](http://www.co2list.org/files/calculators.htm)
+[ICLEI Personal CO{{< sub "2" >}} Calculator](http://www.co2list.org/files/calculators.htm)
 
 Harvard Green Campus Initiative
 

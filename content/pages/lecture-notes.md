@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 128f202b-2d0c-54a0-3c55-48161d068d0b
 ---
@@ -11,7 +14,7 @@ U.S. Cities / States / Regions
 
 ### Coalition of N.E. states
 
-1.  [Regional Greenhouse Gas Initiative](http://www.rggi.org/): Cap and trade system for CO2.
+1.  [Regional Greenhouse Gas Initiative](http://www.rggi.org/): Cap and trade system for CO{{< sub "2" >}}.
 2.  9 state compact, 7 states have ratified.
 3.  Essentially an implementation of Kyoto in this region. New Jersey is aiming for a less substantial target.
 4.  Initial implementation for power system only.
@@ -26,7 +29,7 @@ U.S. Cities / States / Regions
 
 ### Oregon
 
-1.  Regulation of new power installations: must emit 17% less CO2 than the best similar installation in the U.S. Requires stack burning and / or some CO2 sequestration to achieve.
+1.  Regulation of new power installations: must emit 17% less CO{{< sub "2" >}} than the best similar installation in the U.S. Requires stack burning and / or some CO{{< sub "2" >}} sequestration to achieve.
 2.  No new power plants in Oregon in last 30 years.
 
 ### [Portland](http://www.sustainableportland.org/)
@@ -36,7 +39,7 @@ U.S. Cities / States / Regions
     *   People, plants, salmon and other animals thrive in a healthy ecosystem.
     *   Rewarding work supports families.
 2.  Have values for the employees of the Office of Sustainable Development.
-3.  Aims at 10 percent CO2 below 1990 levels by 2010.
+3.  Aims at 10 percent CO{{< sub "2" >}} below 1990 levels by 2010.
 4.  Boasts its public transportation (75% growth), recycling rate (50%), renewable energy as 10% of electricity, planting of trees, weatherization of buildings.
 
 ### Nebraska / Iowa
@@ -161,7 +164,7 @@ European Cities / States
     *   Ran public relations campaigns aimed at getting households/businesses to switch to alternative energy sources.
     *   Instituted local bans on purchase of chemicals harmful to atmosphere.
     *   Supported rain forest protection projects.
-    *   Set goal of 50% reduction of CO2 emissions in the community or a 15% reduction by 2000.
+    *   Set goal of 50% reduction of CO{{< sub "2" >}} emissions in the community or a 15% reduction by 2000.
 4.  Outcome
     *   Emissions reductions in nearly every area 70% reduction in dust, sulphur dioxide, nitrogen oxide emissions due to measures in heavy industry.
     *   Winner of 5 Milestones Campaign competition for energy savings and greenhouse gas reductions (1997).
