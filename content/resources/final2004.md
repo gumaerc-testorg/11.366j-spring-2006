@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 75577e77-9390-3e2a-d891-be5a9dd54bd1
 resourcetype: Document
 title: Cambridge Climate Action Plan
 uid: dadc53d7-8cc3-4caa-9d73-e25ff2e6990a

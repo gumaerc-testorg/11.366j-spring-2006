@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 75577e77-9390-3e2a-d891-be5a9dd54bd1
 resourcetype: Document
 title: Is it possible to reduce the green house gas emissions linked to energy use
   in MIT labs?

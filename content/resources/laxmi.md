@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7bff14cb-5290-781d-0288-2ec9813f15e2
 resourcetype: Document
 title: 'Problem to Solution(s): Change Agency Competencies'
 uid: eb8a7ce0-9e37-ea0d-5e5a-19a13bbed58b

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7bff14cb-5290-781d-0288-2ec9813f15e2
 resourcetype: Document
 title: 'Harvard Green Campus Initiative: Overview'
 uid: 9d673943-e303-6afc-18aa-82c3aa90c049
