@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to useful online resources for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -75,7 +76,7 @@ The Smart Communities Network
 Continental Europe
 ------------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sustainable Urban Development in Europe (PDF - 7.5MB)](http://ec.europa.eu/regional_policy/sources/docgener/presenta/urban2009/urban2009_en.pdf) (Index of Cases by City)
+[Sustainable Urban Development in Europe (PDF - 7.5MB)](http://ec.europa.eu/regional_policy/sources/docgener/presenta/urban2009/urban2009_en.pdf) (Index of Cases by City)
 
 [NCDO (Netherlands)](http://www.ncdo.nl/)
 

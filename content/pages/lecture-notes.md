@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides general class discussion notes covering sustainable
+  resources by region.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
