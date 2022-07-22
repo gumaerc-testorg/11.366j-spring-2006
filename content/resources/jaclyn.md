@@ -6,6 +6,7 @@ file: /courses/11-366j-planning-for-sustainable-development-spring-2006/9d673943
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Harvard Green Campus Initiative: Overview'
 uid: 9d673943-e303-6afc-18aa-82c3aa90c049
 ---
 Slide presentation on the Harvard Green Campus Initiative, large scale behavior change programs, and case studies.
-

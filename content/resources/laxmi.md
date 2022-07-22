@@ -5,6 +5,7 @@ file: /courses/11-366j-planning-for-sustainable-development-spring-2006/eb8a7ce0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem to Solution(s): Change Agency Competencies'
 uid: eb8a7ce0-9e37-ea0d-5e5a-19a13bbed58b
 ---
 Lecture presentation on change agency competencies.
-

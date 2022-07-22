@@ -7,6 +7,7 @@ file: /courses/11-366j-planning-for-sustainable-development-spring-2006/025834a9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 025834a9-d0c2-181c-9544-d459d2192b34
 ---
 Example of student work: a study on GHG emission reduction through energy conservation opportunities at the MIT campus. 
 Claudia Cordie', Jiwoon Kim, Peldon Tshering, Randall Coffie
-

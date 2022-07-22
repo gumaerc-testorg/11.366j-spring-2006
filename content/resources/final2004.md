@@ -6,6 +6,7 @@ file: /courses/11-366j-planning-for-sustainable-development-spring-2006/dadc53d7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Cambridge Climate Action Plan
 uid: dadc53d7-8cc3-4caa-9d73-e25ff2e6990a
 ---
 Example of student work: a report on the implementation of the Climate Protection Plan (CPP) in the City of Cambridge in collaboration with MIT.
-
