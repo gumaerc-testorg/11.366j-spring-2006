@@ -1,18 +1,17 @@
 ---
 content_type: page
 description: This section provides links to useful online resources for the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 380c3f78-0842-60da-e743-80ebedbd6189
 ---
-
-Massachusetts
--------------
+## Massachusetts
 
 [Massachusetts State Sustainability](http://www.mass.gov/envir/Sustainable/)
 
-[ICLEI Personal CO{{< sub "2" >}} Calculator](http://www.co2list.org/files/calculators.htm)
+[ICLEI Personal CO](http://www.co2list.org/files/calculators.htm){{< sub "2" >}}[Calculator](http://www.co2list.org/files/calculators.htm)
 
 Harvard Green Campus Initiative
 
@@ -22,8 +21,7 @@ Harvard Green Campus Initiative
 
 [The Green Roundtable](http://www.ceres.org/about-us/coalition/coalition-members/green-roundtable)
 
-UK and Ireland
---------------
+## UK and Ireland
 
 [Sustainable Development Commission](http://www.sd-commission.org.uk/)
 
@@ -39,8 +37,7 @@ Environ, Leicester, UK
 
 [Sustainable Cities Research Institute](http://www.sustainablecitiesinstitute.org/)
 
-Australia
----------
+## Australia
 
 [Australian Government,l Department of Environment and Heritage Local Agenda 21 Program](http://aries.mq.edu.au/handbook/files/6-WhatIsLocalAg.pdf)
 
@@ -50,8 +47,7 @@ Australia
 
 [National Local Leaders in Sustainability Forum](http://www.deh.gov.au/esd/la21/llisf/index.html)
 
-U.S.
-----
+## U.S.
 
 [City of Portland, Office of Sustainable Development](http://www.sustainableportland.org/)
 
@@ -73,8 +69,7 @@ The Smart Communities Network
 
 [U.S. Conference of Mayors](https://www.usmayors.org/)
 
-Continental Europe
-------------------
+## Continental Europe
 
 [Sustainable Urban Development in Europe (PDF - 7.5MB)](http://ec.europa.eu/regional_policy/sources/docgener/presenta/urban2009/urban2009_en.pdf) (Index of Cases by City)
 
@@ -86,8 +81,7 @@ Continental Europe
 
 [Northern Alliance for Sustainable Development](http://www.anped.org/index.php?part=4&section=home&reference=0)
 
-General
--------
+## General
 
 [ICLEI (International Council for Local Environmental Initiatives)](http://www.sustainable.org/creating-community/inventories-and-indicators/149-international-council-for-local-environmental-initiatives-iclei)
 
@@ -97,7 +91,7 @@ Rio +5: Managing Local Sustainability
 
 [The Earth Charter Initiative](http://www.earthcharterinaction.org/content/)
 
-[Local Agenda 21](http://www.gdrc.org/uem/la21/la21.html)
+[Local Agenda 21](https://www.gdrc.org/sustdev/concepts/18-la21.html)
 
 The DISCUS Project: Developing Institutional and Social Capacities for Urban Sustainability ([PDF](http://localcapacity21.iclei-europe.org/fileadmin/user_upload/urbangovernance/descriptionenglish.pdf))
 
