@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on change agency competencies.
 file: /courses/11-366j-planning-for-sustainable-development-spring-2006/eb8a7ce09e37ea0d5e5a19a13bbed58b_laxmi.pdf
+file_size: 45961
 file_type: application/pdf
 learning_resource_types:
 - Readings
