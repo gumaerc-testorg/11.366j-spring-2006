@@ -9,7 +9,7 @@ uid: 380c3f78-0842-60da-e743-80ebedbd6189
 ---
 ## Massachusetts
 
-[Massachusetts State Sustainability](http://www.mass.gov/envir/Sustainable/)
+[Massachusetts State Sustainability](https://www.mass.gov/doc/10-sustainability-resources-and-programs-in-ma/download)
 
 [ICLEI Personal CO](http://www.co2list.org/files/calculators.htm){{< sub "2" >}}[Calculator](http://www.co2list.org/files/calculators.htm)
 
@@ -83,7 +83,7 @@ The Smart Communities Network
 
 ## General
 
-[ICLEI (International Council for Local Environmental Initiatives)](http://www.sustainable.org/creating-community/inventories-and-indicators/149-international-council-for-local-environmental-initiatives-iclei)
+[ICLEI - Local Governments for Sustainability](https://iclei.org/)
 
 Local Sustainability: European Good Practice Information Service
 
