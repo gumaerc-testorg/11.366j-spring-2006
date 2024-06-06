@@ -3,6 +3,7 @@ content_type: resource
 description: Slide presentation on the Harvard Green Campus Initiative, large scale
   behavior change programs, and case studies.
 file: /courses/11-366j-planning-for-sustainable-development-spring-2006/9d673943e3036afc18aa82c3aa90c049_jaclyn.pdf
+file_size: 3163652
 file_type: application/pdf
 learning_resource_types:
 - Readings
