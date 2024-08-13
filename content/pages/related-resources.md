@@ -25,7 +25,7 @@ Harvard Green Campus Initiative
 
 [Sustainable Development Commission](http://www.sd-commission.org.uk/)
 
-[New Economics Foundation, UK](http://www.regional.org.au/au/soc/2002/4/ross.htm)
+[New Economics Foundation, UK](https://neweconomics.org/)
 
 Environ, Leicester, UK
 
@@ -41,11 +41,7 @@ Environ, Leicester, UK
 
 [Australian Government,l Department of Environment and Heritage Local Agenda 21 Program](http://aries.mq.edu.au/handbook/files/6-WhatIsLocalAg.pdf)
 
-[The Regional Institute Ltd Sustaining Our Communities](http://www.regional.org.au/au/soc/2002/4/ross.htm)
-
 [Victorian Local Sustainability Accord](http://www.dse.vic.gov.au/conservation-and-environment/sustainability/victorian-local-sustainability-accord)
-
-[National Local Leaders in Sustainability Forum](http://www.deh.gov.au/esd/la21/llisf/index.html)
 
 ## U.S.
 
@@ -62,8 +58,6 @@ Redefining Progress
 The Smart Communities Network
 
 [SUSTAIN: Youth Network for Sustainable Development](http://sustainus.org/)
-
-[Citizens Network for Sustainable Development](http://www.citnet.org/)
 
 [Institute for Local Self Reliance](http://www.ilsr.org/)
 
@@ -92,8 +86,6 @@ Rio +5: Managing Local Sustainability
 [The Earth Charter Initiative](http://www.earthcharterinaction.org/content/)
 
 [Local Agenda 21](https://www.gdrc.org/sustdev/concepts/18-la21.html)
-
-The DISCUS Project: Developing Institutional and Social Capacities for Urban Sustainability ([PDF](http://localcapacity21.iclei-europe.org/fileadmin/user_upload/urbangovernance/descriptionenglish.pdf))
 
 Network for Science and Technology for Sustainability
 
