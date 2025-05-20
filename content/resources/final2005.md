@@ -3,7 +3,7 @@ content_type: resource
 description: "Example of student work: a study on GHG emission reduction through energy\
   \ conservation opportunities at the MIT campus. \r\nClaudia Cordie', Jiwoon Kim,\
   \ Peldon Tshering, Randall Coffie"
-file: /ol-ocw-studio-app/courses/11-366j-planning-for-sustainable-development-spring-2006/025834a9d0c2181c9544d459d2192b34_final2005.pdf
+file: /courses/11-366j-planning-for-sustainable-development-spring-2006/025834a9d0c2181c9544d459d2192b34_final2005.pdf
 file_size: 369639
 file_type: application/pdf
 learning_resource_types:
