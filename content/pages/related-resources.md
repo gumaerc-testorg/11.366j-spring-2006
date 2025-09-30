@@ -9,84 +9,84 @@ uid: 380c3f78-0842-60da-e743-80ebedbd6189
 ---
 ## Massachusetts
 
-[Massachusetts State Sustainability](https://www.mass.gov/doc/10-sustainability-resources-and-programs-in-ma/download)
+{{% resource_link "6ee1166e-8c7a-4b31-a365-2b8c3d41ce09" "Massachusetts State Sustainability" %}}
 
-[ICLEI Personal CO](http://www.co2list.org/files/calculators.htm){{< sub "2" >}}[Calculator](http://www.co2list.org/files/calculators.htm)
+{{% resource_link "9ee009b3-dc2f-4fc7-abd4-8442d72a5b99" "ICLEI Personal CO" %}}{{< sub "2" >}}{{% resource_link "9ee009b3-dc2f-4fc7-abd4-8442d72a5b99" "Calculator" %}}
 
 Harvard Green Campus Initiative
 
-[Massachusetts Climate Action Network](http://www.massclimateaction.org/)
+{{% resource_link "29dbcb20-6d96-4bba-9b09-33d90cf84ad0" "Massachusetts Climate Action Network" %}}
 
-[Northeast Sustainable Energy Association](http://www.nesea.org/)
+{{% resource_link "4db7c90a-707c-49f1-bdf8-3426e819058d" "Northeast Sustainable Energy Association" %}}
 
-[The Green Roundtable](http://www.ceres.org/about-us/coalition/coalition-members/green-roundtable)
+{{% resource_link "fe035d71-109d-45ac-83a9-b27416e4f6d5" "The Green Roundtable" %}}
 
 ## UK and Ireland
 
-[Sustainable Development Commission](http://www.sd-commission.org.uk/)
+{{% resource_link "a2bcf5e3-f851-46ef-a444-2f08781d856e" "Sustainable Development Commission" %}}
 
-[New Economics Foundation, UK](https://neweconomics.org/)
+{{% resource_link "db3938ed-f250-405f-8978-fa3d786bf07c" "New Economics Foundation, UK" %}}
 
 Environ, Leicester, UK
 
-[Foundation for the Economics of Sustainability](http://www.feasta.org/)
+{{% resource_link "a4082e61-303f-43f0-93ca-4e56d7c7b63b" "Foundation for the Economics of Sustainability" %}}
 
-[Our Southwest](http://www.oursouthwest.com/)
+{{% resource_link "840a12bd-6ab6-4137-b8e0-352e3ed9a04f" "Our Southwest" %}}
 
-[The Local Sustainability Strategy for Cardiff](https://www.oneplanetcardiff.co.uk/)
+{{% resource_link "bcab866b-bfaa-4ff9-85f5-2b8c3ef65dac" "The Local Sustainability Strategy for Cardiff" %}}
 
-[Sustainable Cities Research Institute](http://www.sustainablecitiesinstitute.org/)
+{{% resource_link "ee1acaa9-23cf-4d21-bbce-46d2fcfd30b3" "Sustainable Cities Research Institute" %}}
 
 ## Australia
 
-[Australian Government,l Department of Environment and Heritage Local Agenda 21 Program](http://aries.mq.edu.au/handbook/files/6-WhatIsLocalAg.pdf)
+{{% resource_link "73a47435-6ebd-4503-90de-cd31fd04796c" "Australian Government,l Department of Environment and Heritage Local Agenda 21 Program" %}}
 
-[Victorian Local Sustainability Accord](http://www.dse.vic.gov.au/conservation-and-environment/sustainability/victorian-local-sustainability-accord)
+{{% resource_link "901203d8-5820-4738-bd98-5be9ae35575b" "Victorian Local Sustainability Accord" %}}
 
 ## U.S.
 
-[City of Portland, Office of Sustainable Development](http://www.sustainableportland.org/)
+{{% resource_link "72ad9b51-075b-41fb-a068-b1b18cca720e" "City of Portland, Office of Sustainable Development" %}}
 
-[Sustainable Seattle](http://www.sustainableseattle.org/)
+{{% resource_link "b7e06e5b-7794-4e24-9c54-9a6e332c85f5" "Sustainable Seattle" %}}
 
-[Austin Sustainable Communities Initiative](https://www.greenpolicy360.net/w/Austin,_TX_Sustainable_Communities_Initiative)
+{{% resource_link "95340fd5-5bd6-4f6a-8606-8b9acbfcad61" "Austin Sustainable Communities Initiative" %}}
 
-[Boulder Area Sustainability Information Network](http://bcn.boulder.co.us/basin/)
+{{% resource_link "fec69131-5d2b-4cb2-a065-6653bf12320e" "Boulder Area Sustainability Information Network" %}}
 
 Redefining Progress
 
 The Smart Communities Network
 
-[SUSTAIN: Youth Network for Sustainable Development](http://sustainus.org/)
+{{% resource_link "b69bf13a-10af-4b3f-95b7-b72f02baf6a5" "SUSTAIN: Youth Network for Sustainable Development" %}}
 
-[Institute for Local Self Reliance](http://www.ilsr.org/)
+{{% resource_link "4d780950-5d83-44ae-bac6-53ab4f0e1fe3" "Institute for Local Self Reliance" %}}
 
-[U.S. Conference of Mayors](https://www.usmayors.org/)
+{{% resource_link "21c6a6a3-a56f-4f1d-b54e-335a2e365942" "U.S. Conference of Mayors" %}}
 
 ## Continental Europe
 
-[Sustainable Urban Development in Europe (PDF - 7.5MB)](http://ec.europa.eu/regional_policy/sources/docgener/presenta/urban2009/urban2009_en.pdf) (Index of Cases by City)
+{{% resource_link "0bce34ac-0564-4408-8f7e-d1859538a625" "Sustainable Urban Development in Europe (PDF - 7.5MB)" %}} (Index of Cases by City)
 
-[NCDO (Netherlands)](http://www.ncdo.nl/)
+{{% resource_link "1ffb6299-7a4a-465f-91cb-62853d0099b3" "NCDO (Netherlands)" %}}
 
-[The Earth Charter Initiative](https://www.oneplanetnetwork.org/initiative/earth-charter-initiative)
+{{% resource_link "ebc90a46-79ed-4044-9188-e9041469a20c" "The Earth Charter Initiative" %}}
 
-[Local Sustainability Mirror](http://www.informaworld.com/smpp/content~db=all~content=a778130644)
+{{% resource_link "e7ca1a92-9ffd-4156-9068-1f4b852583ec" "Local Sustainability Mirror" %}}
 
-[Northern Alliance for Sustainable Development](http://www.anped.org/index.php?part=4&section=home&reference=0)
+{{% resource_link "b5289bbf-58f9-4c7b-a251-6d499460fe67" "Northern Alliance for Sustainable Development" %}}
 
 ## General
 
-[ICLEI - Local Governments for Sustainability](https://iclei.org/)
+{{% resource_link "4b72b5f3-e56c-4845-ad67-c4d05baace83" "ICLEI - Local Governments for Sustainability" %}}
 
 Local Sustainability: European Good Practice Information Service
 
 Rio +5: Managing Local Sustainability
 
-[The Earth Charter Initiative](http://www.earthcharterinaction.org/content/)
+{{% resource_link "dd4fe2db-be1b-4bfc-aa29-b1f877a20993" "The Earth Charter Initiative" %}}
 
-[Local Agenda 21](https://www.gdrc.org/sustdev/concepts/18-la21.html)
+{{% resource_link "d3205d4e-a180-4971-9c9c-109a0cc33388" "Local Agenda 21" %}}
 
 Network for Science and Technology for Sustainability
 
-[World Business Council for Sustainable Development](http://www.wbcsd.org/)
+{{% resource_link "8913641e-c542-496f-81b3-da9d38106193" "World Business Council for Sustainable Development" %}}
