@@ -16,7 +16,7 @@ U.S. Cities / States / Regions
 
 ### Coalition of N.E. states
 
-1.  {{% resource_link "55d5de5b-fb77-4032-a2b9-cf355bffed89" "Regional Greenhouse Gas Initiative" %}}: Cap and trade system for CO{{< sub "2" >}}.
+1.  [Regional Greenhouse Gas Initiative](http://www.rggi.org/): Cap and trade system for CO{{< sub "2" >}}.
 2.  9 state compact, 7 states have ratified.
 3.  Essentially an implementation of Kyoto in this region. New Jersey is aiming for a less substantial target.
 4.  Initial implementation for power system only.
@@ -34,7 +34,7 @@ U.S. Cities / States / Regions
 1.  Regulation of new power installations: must emit 17% less CO{{< sub "2" >}} than the best similar installation in the U.S. Requires stack burning and / or some CO{{< sub "2" >}} sequestration to achieve.
 2.  No new power plants in Oregon in last 30 years.
 
-### {{% resource_link "72ad9b51-075b-41fb-a068-b1b18cca720e" "Portland" %}}
+### [Portland](http://www.sustainableportland.org/)
 
 1.  Visions that stand out:
     *   Natural resources are used wisely.
@@ -61,18 +61,18 @@ The City's Energy C.A.P. plan projects a decrease in emissions by 30% from 1990 
 
 Cambridge joined the Cities for Climate Protection alliance in 1999 which includes over 600 local governments world-wide. Their initiatives include: green buildings, energy management, alternative fuels and vehicles, transportation demand management, urban forestry, and waste management. The City has also developed a policy stating that all new construction and major renovation building projects will be "green buildings" as defined by the USGBC's LEED system.
 
-### {{% resource_link "b7e06e5b-7794-4e24-9c54-9a6e332c85f5" "Sustainable Seattle" %}}
+### [Sustainable Seattle](http://www.sustainableseattle.org/)
 
 1.  A non-profit organization.
 2.  Raises awareness, develops tool for monitoring, and fosters dialogue.
 3.  Targets urban centers, urban sustainability.
 4.  Promotes local spending. Measured by local multipliers.
 
-### {{% resource_link "95340fd5-5bd6-4f6a-8606-8b9acbfcad61" "Austin Sustainable Communities Initiative" %}}
+### [Austin Sustainable Communities Initiative](https://www.greenpolicy360.net/w/Austin,_TX_Sustainable_Communities_Initiative)
 
 1.  Targets individuals in the areas of building and construction, food, neighborhood, home energy, indoor air quality, landscaping, local economy, smart shopping, life style, transportation, waste reduction
 
-### {{% resource_link "fec69131-5d2b-4cb2-a065-6653bf12320e" "Boulder Area Sustainability Information Network" %}}
+### [Boulder Area Sustainability Information Network](http://bcn.boulder.co.us/basin/)
 
 1.  Local community service network offering public access to environmental information.
 2.  Environmental monitoring, information management, public access infrastructure.
@@ -89,7 +89,7 @@ U.S. National
 3.  List of codes and ordinances that communities have used to implement sustainable development.
 4.  Case studies of: overview, land use planning, transportation, green buildings, community energy, rural issues, sustainable business, green development, disaster planning, measuring progress, air quality, water efficiency, materials efficiency.
 
-### {{% resource_link "b59cdbfa-da8b-4e61-be75-9050dd1e16cc" "Citizens Network for Sustainable Development (CitNet)" %}}
+### [Citizens Network for Sustainable Development (CitNet)](https://orgs.tigweb.org/citizens-network-for-sustainable-development)
 
 1.  Connecting, educating, and acting to make real the Earth Summit's vision.
 2.  Projects: Campaign for national leadership of sustainability, Citizens Guide to the World Summit on Sustainable Development.
@@ -108,11 +108,11 @@ U.S. National
 3.  The Ecological Footprint (EF).
 4.  The Genuine Progress Indicator (GPI) (adds in the economic contributions of household and volunteer work, but subtracts factors such as crime, pollution, and family breakdown).
 
-### {{% resource_link "b69bf13a-10af-4b3f-95b7-b72f02baf6a5" "SustainUS: Youth Network for Sustainable Development" %}}
+### [SustainUS: Youth Network for Sustainable Development](http://sustainus.org/)
 
 1.  Proactive education and advocacy at the policy-making and grassroots levels.
 
-### {{% resource_link "4d780950-5d83-44ae-bac6-53ab4f0e1fe3" "Institute for Local Self Reliance" %}}
+### [Institute for Local Self Reliance](http://www.ilsr.org/)
 
 1.  Researched the feasibility of communities generating a significant amount of wealth from local resources.
 2.  Initial focus: Adams Morgan: with rooftop hydroponic gardens and solar collectors and a commercial basement sprout operation and composting toilet.
