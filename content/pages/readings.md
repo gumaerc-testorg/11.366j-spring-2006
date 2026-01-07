@@ -67,9 +67,9 @@ Guest: Rosalie Anders, Cambridge Department of Community Planning Steven Lanou, 
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "5acfc773-b6e4-44d9-b255-6720f599909f" "Cambridge Climate Change Protection Plan" %}}
+[Cambridge Climate Change Protection Plan](http://www.cambridgema.gov/CDD/climateandenergy/climatechangeplanning.aspx)
 
-Armstrong, Robert, and Ernest Moniz. "Report of the Energy Research Council." Cambridge, MA: MIT Energy Research Council, May 3, 2006. ({{% resource_link "80c43bf5-9fbe-4b92-b25c-f74cf1ffe4fd" "PDF - 2.4 MB" %}})
+Armstrong, Robert, and Ernest Moniz. "Report of the Energy Research Council." Cambridge, MA: MIT Energy Research Council, May 3, 2006. ([PDF - 2.4 MB](http://web.mit.edu/mitei/about/erc-report-final.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
